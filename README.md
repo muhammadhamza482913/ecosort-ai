@@ -1,1 +1,1 @@
-# ecosort-ai
+npm install
